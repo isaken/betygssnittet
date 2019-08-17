@@ -1,2 +1,2 @@
 # betygssnittet
-Räknar ut ditt betygssnitt, automatiskt i Ladok
+Räknar ut ditt betygssnitt automatiskt i Ladok
